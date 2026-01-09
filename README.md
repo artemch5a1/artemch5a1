@@ -31,3 +31,7 @@ Actively improving skills in:
 I enjoy working on backend-first products, real problem-solving and growing through practical experience.
 
 ---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=artemch5a1&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artemch5a1&layout=compact&theme=tokyonight)
