@@ -27,6 +27,12 @@ Actively improving skills in:
 - Cloud-native backend practices
 - Production-ready architectures
 
+## 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=artemch5a1&show_icons=true&theme=tokyonight)](https://github.com/artemch5a1)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=artemch5a1&layout=compact&theme=tokyonight)](https://github.com/artemch5a1)
+
 ## 🤝 Open to collaboration
 I enjoy working on backend-first products, real problem-solving and growing through practical experience.
 
